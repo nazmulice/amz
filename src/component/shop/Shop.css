@@ -1,0 +1,16 @@
+.shop-con{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   
+}
+
+.product-con{
+    margin-right: 5px;
+    border-right:1px solid lightgray;
+    margin-left: 100px;
+}
+
+
+/* .cart-con{
+
+} */
